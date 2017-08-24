@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.8.21)  23 AUG 2017 23:07
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.8.21)  24 AUG 2017 20:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Volumes/OS/Lock&Load/L&L
-(/Volumes/OS/Lock&Load/L&L.tex
+**/Volumes/OS/Lock-Load/L&L
+(/Volumes/OS/Lock-Load/L&L.tex
 LaTeX2e <2017-04-15>
 Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/ctex/ctexart.cls
@@ -1276,73 +1276,9 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 10.
-
-/Volumes/OS/Lock&Load/L&L.tex:19: Undefined control sequence.
-l.19 \par\indent鲍娟
-                      【2009】中提出了一种嵌入式Linux的网络流...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-[2]
-/Volumes/OS/Lock&Load/L&L.tex:34: Undefined control sequence.
-l.34 \par\indent综上所述
-                            ，本文除了继承了之前研究工作的模...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-[3]
-/Volumes/OS/Lock&Load/L&L.tex:37: Undefined control sequence.
-l.37 ...要阐述了本文研究的意义和背景
-                                                  ，国内外研究动态�...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Volumes/OS/Lock&Load/L&L.tex:38: Undefined control sequence.
-l.38 ...解了恶意流量过滤所涉及的技术
-                                                  。其中有，Netfilter�...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Volumes/OS/Lock&Load/L&L.tex:39: Undefined control sequence.
-l.39 ...恶意流量过滤系统的设计与实现
-                                                  。
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Volumes/OS/Lock&Load/L&L.tex:40: Undefined control sequence.
-l.40 ...的恶意流量过滤系统环境的搭建
-                                                  ，测试和分析。
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Volumes/OS/Lock&Load/L&L.tex:41: Undefined control sequence.
-l.41 ...对本文的工作进行了总结和展望
-                                                  。
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
+ [2] [3]
 File: ./pic/net.png Graphic file (type QTm)
+
 <use  "./pic/net.png" > [4] [5]
 File: ./pic/tcp_segment_data.png Graphic file (type QTm)
  <use  "./pic/tcp_segment_data.png" > [6]
